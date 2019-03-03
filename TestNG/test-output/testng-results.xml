@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="28" started-at="2019-03-03T07:14:00Z" finished-at="2019-03-03T07:14:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="28" started-at="2019-03-03T07:14:00Z" finished-at="2019-03-03T07:14:00Z">
+      <class name="BasicAnnotation.Module2">
+        <test-method status="PASS" signature="Beforesuite()[pri:0, instance:BasicAnnotation.Module2@643b1d11]" name="Beforesuite" is-config="true" duration-ms="7" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforesuite -->
+        <test-method status="PASS" signature="beforeModule()[pri:0, instance:BasicAnnotation.Module2@643b1d11]" name="beforeModule" is-config="true" duration-ms="0" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeModule -->
+        <test-method status="PASS" signature="beforeTestScript()[pri:0, instance:BasicAnnotation.Module2@643b1d11]" name="beforeTestScript" is-config="true" duration-ms="1" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestScript -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:BasicAnnotation.Module2@643b1d11]" name="test3" duration-ms="1" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="beforeTestScript()[pri:0, instance:BasicAnnotation.Module2@643b1d11]" name="beforeTestScript" is-config="true" duration-ms="0" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestScript -->
+        <test-method status="PASS" signature="afterTestScript()[pri:0, instance:BasicAnnotation.Module2@643b1d11]" name="afterTestScript" is-config="true" duration-ms="0" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestScript -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:BasicAnnotation.Module2@643b1d11]" name="test4" duration-ms="1" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="afterTestScript()[pri:0, instance:BasicAnnotation.Module2@643b1d11]" name="afterTestScript" is-config="true" duration-ms="1" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestScript -->
+        <test-method status="PASS" signature="AfterModule()[pri:0, instance:BasicAnnotation.Module2@643b1d11]" name="AfterModule" is-config="true" duration-ms="0" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterModule -->
+        <test-method status="PASS" signature="Aftersuite()[pri:0, instance:BasicAnnotation.Module2@643b1d11]" name="Aftersuite" is-config="true" duration-ms="0" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftersuite -->
+      </class> <!-- BasicAnnotation.Module2 -->
+      <class name="BasicAnnotation.Module1">
+        <test-method status="PASS" signature="beforeModule()[pri:0, instance:BasicAnnotation.Module1@2ef5e5e3]" name="beforeModule" is-config="true" duration-ms="0" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeModule -->
+        <test-method status="PASS" signature="beforeTestScript()[pri:0, instance:BasicAnnotation.Module1@2ef5e5e3]" name="beforeTestScript" is-config="true" duration-ms="1" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestScript -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:BasicAnnotation.Module1@2ef5e5e3]" name="test1" duration-ms="3" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeTestScript()[pri:0, instance:BasicAnnotation.Module1@2ef5e5e3]" name="beforeTestScript" is-config="true" duration-ms="0" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestScript -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:BasicAnnotation.Module1@2ef5e5e3]" name="test2" duration-ms="1" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterTestScript()[pri:0, instance:BasicAnnotation.Module1@2ef5e5e3]" name="afterTestScript" is-config="true" duration-ms="0" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestScript -->
+        <test-method status="PASS" signature="AfterModule()[pri:0, instance:BasicAnnotation.Module1@2ef5e5e3]" name="AfterModule" is-config="true" duration-ms="0" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterModule -->
+        <test-method status="PASS" signature="afterTestScript()[pri:0, instance:BasicAnnotation.Module1@2ef5e5e3]" name="afterTestScript" is-config="true" duration-ms="0" started-at="2019-03-03T12:44:00Z" finished-at="2019-03-03T12:44:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestScript -->
+      </class> <!-- BasicAnnotation.Module1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
